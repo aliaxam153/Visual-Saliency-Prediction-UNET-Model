@@ -1,15 +1,31 @@
-# Project Name
+# Visual Saliency Predicition via UNet Semantic Segmentation Model
 
-## Description
+> ### Disclaimer:
+>
+> The code and materials provided in this repository are not owned by me. They are sourced from various external contributors, publicly available resources, or other repositories. All credit for the original
+> work goes to the respective authors and contributors. I do not claim any ownership or rights over the code and materials within this repository.
+> If you are the rightful owner of any content and wish to have it removed or properly attributed, please contact me, and I will address your concerns promptly.
 
-This project is a Visual Saliency Prediction UNET Model.
+> ### Libraries:
+> Segmentation Model: https://github.com/qubvel/segmentation_models
 
-## Installation
+> ### Dataset:
+> EgoMon Dataset: https://imatge-upc.github.io/egocentric-2016-saliency/
+
+> ### Paper:
+> UNet Paper: https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
+
+
+### Description
+
+Implementation of a Visual Saliency Prediction Model using the UNET Architecture. The pre-build UNet model was imported from an open-source library named "segmentation-models". And it was trained on EgoMon Visual Saliency Dataset.
+
+### Installation Procedure
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/aliaxam153/Visual-Saliency-Prediction-UNET-Model.git
     ```
 
 2. Navigate to the project directory:
@@ -24,7 +40,16 @@ This project is a Visual Saliency Prediction UNET Model.
     pip3 install -r requirements.txt
     ```
 
-    This command will install all the required packages specified in the `requirements.txt` file.
+    This command will install all the required python packages specified in the `requirements.txt` file.
+
+### UNet Architecture
+![alt text](.misc/UNet_Model.png)
+
+### Create your own Visual Saliency Dataset
+
+
+
+
 
 ## Usage
 
