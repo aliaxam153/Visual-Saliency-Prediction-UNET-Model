@@ -1,4 +1,6 @@
 # Visual Saliency Predicition via UNet Semantic Segmentation Model
+### UNet Architecture
+![alt text](.misc/UNet_Model.png)
 
 > ### Disclaimer:
 >
@@ -41,24 +43,3 @@ Implementation of a Visual Saliency Prediction Model using the UNET Architecture
     ```
 
     This command will install all the required python packages specified in the `requirements.txt` file.
-
-### UNet Architecture
-![alt text](.misc/UNet_Model.png)
-
-### Create your own Visual Saliency Dataset
-
-
-
-
-
-## Usage
-
-...
-
-## Contributing
-
-...
-
-## License
-
-...
