@@ -4,8 +4,8 @@
 
 > ### Disclaimer:
 >
-> The code and materials provided in this repository are not owned by me. They are sourced from various external contributors, publicly available resources, or other repositories. All credit for the original
-> work goes to the respective authors and contributors. I do not claim any ownership or rights over the code and materials within this repository.
+> The libraries and dataset materials provided in this repository are not owned by me. They are sourced from various external contributors, publicly available resources, or other repositories. All credit for the original
+> work goes to the respective authors and contributors.
 > If you are the rightful owner of any content and wish to have it removed or properly attributed, please contact me, and I will address your concerns promptly.
 
 > ### Libraries:
