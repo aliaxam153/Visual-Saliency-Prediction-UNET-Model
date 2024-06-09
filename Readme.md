@@ -43,3 +43,5 @@ Implementation of a Visual Saliency Prediction Model using the UNET Architecture
     ```
 
     This command will install all the required python packages specified in the `requirements.txt` file.
+4. To download and use the pre-trained model, visit this link: https://www.kaggle.com/models/aliazam153/unet-visual-saliency-prediction
+
